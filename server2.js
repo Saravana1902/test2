@@ -21,9 +21,9 @@ const mongoose = require('mongoose');
 
 
 //const { sayHello } = require('../module');
-const sayfunc = require('../module');
+const sayfunc = require('./module');
 //require('../module');
-const variables = require('../variable');
+const variables = require('./variable');
 
 const vary = 1;
 
